@@ -27,7 +27,8 @@ Users should be able to:
 
 
 ## My process
-Currently trying to figure out how to make the flex box responsive.
+It's pretty much finish. I could have made it better if I made the underline with pseudo-elements.
+Hopefully the page is kept up to date
 
 ### Built with
 
