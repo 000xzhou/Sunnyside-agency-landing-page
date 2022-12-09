@@ -6,7 +6,7 @@ import Footer from "./component/Footer"
 
 function App() {
   return (
-    <div>
+    <div className="font-barlow">
       <Nav />
       <Hero />
       <Testimonials />

@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:opsz,wght@9..144,700;9..144,900&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+@media(max-width: 768px) {
+    .bubble {
+        z-index: 1;
+    }
+
+    .bubble::after {
+        content: '';
+        position: absolute;
+        border-style: solid;
+        border-width: 0 0 20px 20px;
+        border-color: transparent transparent white transparent;
+        top: -20px;
+        right: 0;
+    }
+}
