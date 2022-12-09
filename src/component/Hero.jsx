@@ -12,7 +12,7 @@ function Hero() {
                 <div className="px-10 md:px-32 md:text-left m-auto">
                     <h2 className="text-5xl font-black font-fraunces ">Transform your brand</h2>
                     <p className="text-lg py-10 leading-loose">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero, asperiores et, molestias pariatur, ipsa exercitationem esse doloribus alias expedita aliquid debitis deserunt nobis nam quam porro sapiente odio doloremque veritatis?</p>
-                    <button className="text-lg font-fraunces uppercase ">Learn More</button>
+                    <button className="text-lg font-fraunces uppercase border-b-8 border-yellow-200 hover:border-yellow-300">Learn More</button>
                 </div>
             </div>
             <div className="row-start-4 md:row-start-3 bg-image-stand-out bg-no-repeat md:bg-cover bg-center ">
@@ -21,7 +21,7 @@ function Hero() {
                 <div className="px-10 md:px-32 md:text-left  m-auto">
                     <h2 className="text-5xl font-black font-fraunces">Stand out to the right audience</h2>
                     <p className="text-lg py-10 leading-loose" >Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero, asperiores et, molestias pariatur, ipsa exercitationem esse doloribus alias expedita aliquid debitis deserunt nobis nam quam porro sapiente odio doloremque veritatis?</p>
-                    <button className="text-lg font-fraunces uppercase ">Learn More</button>
+                    <button className="text-lg font-fraunces uppercase border-b-8 border-amber-600 hover:border-amber-800">Learn More</button>
                 </div>
             </div>
             <div className="row-start-6  md:row-start-4 ">
